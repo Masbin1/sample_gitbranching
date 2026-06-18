@@ -1,0 +1,12 @@
+# CODEOWNERS
+# Defines who must review PRs touching specific paths.
+# Replace @username with actual GitHub usernames.
+#
+# Format: <path> <owner1> <owner2>
+
+# Technical Lead must review all merges to protected branches
+*                   @technical-lead
+
+# Specific module ownership (uncomment and customize)
+# /your_module/     @developer-a
+# /another_module/  @developer-b
